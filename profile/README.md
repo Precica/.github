@@ -1,6 +1,6 @@
 **Turn massive, fragmented datasets into instantly queryable, analytics-ready data — without the infrastructure overhead.**
 
-Nutshell is a cloud-native SaaS platform that applies workload-aware AI compression at ingestion, so data stays cheap to store, fast to retrieve, and ready for analytics and ML — at tera and petabyte scale.
+Precica is a cloud-native SaaS platform that applies workload-aware AI compression at ingestion, so data stays cheap to store, fast to retrieve, and ready for analytics and ML — at tera and petabyte scale.
 
 ## The Problem
 
@@ -12,9 +12,9 @@ Organisations generate data continuously — from enterprise systems, connected 
 
 The bottleneck is not storage capacity. It is the ability to make large, fragmented data estates fast, affordable, and analytically useful.
 
-## Why Nutshell exists
+## Why Precica exists
 
-Nutshell connects to your cloud and enterprise data stores, ingests datasets, and compresses them using a workload-aware lossy pipeline. The output is an active dataset — one that remains queryable, ML-ready, and auditable without ever requiring full decompression.
+Precica connects to your cloud and enterprise data stores, ingests datasets, and compresses them using a workload-aware lossy pipeline. The output is an active dataset — one that remains queryable, ML-ready, and auditable without ever requiring full decompression.
 
 **Core capabilities:**
 
@@ -26,7 +26,7 @@ Nutshell connects to your cloud and enterprise data stores, ingests datasets, an
 
 ## How it works
 
-Nutshell uses a multi-modal ML engine that learns the underlying structure and patterns within structured data. It encodes datasets into a compressed format that retains the signals that matter for analytics and AI — discarding only what the configured loss policy permits.
+Precica uses a multi-modal ML engine that learns the underlying structure and patterns within structured data. It encodes datasets into a compressed format that retains the signals that matter for analytics and AI — discarding only what the configured loss policy permits.
 
 Think of it as a zip file you never have to open: one you can query directly, join with other compressed sources across your organisation, and interrogate in real time.
 
@@ -34,7 +34,7 @@ A by-product of the encoding is high-grade encryption. Data cannot be decoded wi
 
 ## Who is it for
 
-Nutshell is built for data-intensive organisations that manage large, high-dimensional datasets and depend on fast, reliable analytics:
+Precica is built for data-intensive organisations that manage large, high-dimensional datasets and depend on fast, reliable analytics:
 
 - Energy utilities and consultancies
 - Meteorological and environmental agencies
@@ -46,7 +46,7 @@ Nutshell is built for data-intensive organisations that manage large, high-dimen
 
 The core technology has been validated on large, high-dimensional scientific datasets. Current development is focused on productising it into a standalone deployment application with robust integrations and an accessible interface for industry adoption.
 
-Nutshell is a University of Manchester spinout, supported by the UoM Innovation Factory and backed by Northern Gridstone VC and Deep Tech Labs.
+Precica is a University of Manchester spinout, supported by the UoM Innovation Factory and backed by Northern Gritstone VC and Deeptech Labs.
 
 
 ## Get involved

@@ -51,5 +51,5 @@ Precica is a University of Manchester spinout, supported by the UoM Innovation F
 
 ## Get involved
 
-- **Pilots and collaboration** — if you are working with large structured datasets and want to explore what Nutshell can do, open an Issue or get in touch directly.
+- **Pilots and collaboration** — if you are working with large structured datasets and want to explore what Precica can do, open an Issue or get in touch directly.
 - **Contributions** — proposals for connectors, benchmarks, or quality metrics are welcome via Issues or PRs.
